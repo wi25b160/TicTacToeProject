@@ -1,6 +1,4 @@
-package com.tictactoe;
 
-public class main {
     package com.tictactoe;
 
     public class Main {
